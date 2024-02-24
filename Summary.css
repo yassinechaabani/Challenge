@@ -1,0 +1,28 @@
+.summary-cnt{
+    display: flex;
+    gap:0.25rem ;
+    font-weight: 500;
+    border-radius: 0.75rem;
+    justify-content: space-between;
+    width: 10rem;
+}
+.container{
+    display: flex;
+    align-items: center;
+    gap: 0.3rem;
+    justify-content: center;
+}
+.number-cntn{
+    display: flex;
+    gap: 0.06rem;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+.number-content{
+    color: azure;
+}
+.number-100{
+    color: gray;
+}
